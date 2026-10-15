@@ -11,7 +11,7 @@ public class MathApp {
         //finding highestSalary
 
         int highestSalary = Math.max(bobSalary, garySalary);
-        System.out.println("The highest salary is gary's with a salary of $" + highestSalary);
+        System.out.println("The highest salary is Gary's with a salary of $" + highestSalary);
 
 
 
